@@ -5,5 +5,5 @@ export default function Main() {
     const supabase = createClient();
     //supabase.from('이곳에 테이블의 이름을 넣는다')
   }
-  return <div>text</div>;
+  return <div>text-edit-add</div>;
 }
