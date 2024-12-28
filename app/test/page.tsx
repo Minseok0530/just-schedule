@@ -6,5 +6,5 @@ export default function Main() {
     //supabase.from('이곳에 테이블의 이름을 넣는다')
     //develop-test-add
   }
-  return <div>text</div>;
+  return <div>text-edit-add</div>;
 }
