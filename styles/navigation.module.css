@@ -1,0 +1,18 @@
+.nav {
+    background-color: white;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding: 10px;
+    box-shadow: 0 3px 3px #3c3c3c4c;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    padding: 20px;
+}
+
+.nav ul li:hover {
+    text-decoration: underline;
+}
